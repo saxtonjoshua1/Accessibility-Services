@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_220772_acc_svc.appointment_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>appointment_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-28 17:26:39</sys_created_on>
+        <sys_id>e6e7d903db8020106b748742399619ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_220772_acc_svc.appointment_user</sys_name>
+        <sys_package display_value="Accessibility Services " source="x_220772_acc_svc">d76afff4db7750106b74874239961989</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Accessibility Services ">d76afff4db7750106b74874239961989</sys_scope>
+        <sys_update_name>sys_user_role_e6e7d903db8020106b748742399619ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-28 17:26:39</sys_updated_on>
+    </sys_user_role>
+</record_update>

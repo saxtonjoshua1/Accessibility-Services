@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_user" label="Client" max_length="40" name="x_220772_acc_svc_client" sizeclass="0" type="collection"/>
+</database>

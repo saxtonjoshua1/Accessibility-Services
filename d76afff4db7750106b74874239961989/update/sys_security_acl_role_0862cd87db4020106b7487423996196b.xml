@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-28 15:52:33</sys_created_on>
+        <sys_id>0862cd87db4020106b7487423996196b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_220772_acc_svc_client.x_220772_acc_svc.client_user</sys_name>
+        <sys_package display_value="Accessibility Services " source="x_220772_acc_svc">d76afff4db7750106b74874239961989</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Accessibility Services ">d76afff4db7750106b74874239961989</sys_scope>
+        <sys_security_acl display_value="x_220772_acc_svc_client">4462cd87db4020106b74874239961967</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0862cd87db4020106b7487423996196b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-28 15:52:33</sys_updated_on>
+        <sys_user_role display_value="x_220772_acc_svc.client_user" name="x_220772_acc_svc.client_user">cc620507db4020106b7487423996192f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
